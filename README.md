@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

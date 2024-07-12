@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

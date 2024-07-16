@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

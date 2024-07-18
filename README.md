@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

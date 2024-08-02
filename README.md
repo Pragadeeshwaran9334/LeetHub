@@ -18,6 +18,7 @@
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |

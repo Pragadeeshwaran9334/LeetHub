@@ -19,6 +19,7 @@
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->

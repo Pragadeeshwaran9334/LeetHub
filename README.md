@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table

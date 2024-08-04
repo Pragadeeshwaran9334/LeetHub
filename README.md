@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Array
@@ -41,6 +42,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -52,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
 |  |
@@ -98,4 +102,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

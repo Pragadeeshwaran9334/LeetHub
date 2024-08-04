@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+| [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2491-smallest-even-multiple) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

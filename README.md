@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |

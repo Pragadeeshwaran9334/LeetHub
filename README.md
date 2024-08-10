@@ -30,6 +30,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
+| [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3194-find-words-containing-character) |
@@ -122,6 +123,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |

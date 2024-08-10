@@ -21,6 +21,7 @@
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -120,6 +121,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3194-find-words-containing-character](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |

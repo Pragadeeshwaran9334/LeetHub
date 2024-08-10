@@ -44,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Array
@@ -57,6 +58,7 @@
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Number Theory
 |  |

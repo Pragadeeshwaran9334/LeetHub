@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -110,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
 ## Counting
 |  |
@@ -178,5 +180,6 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

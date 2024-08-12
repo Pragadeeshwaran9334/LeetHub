@@ -45,6 +45,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
@@ -95,6 +96,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0234-palindrome-linked-list) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |

@@ -58,6 +58,7 @@
 | [0039-combination-sum](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |

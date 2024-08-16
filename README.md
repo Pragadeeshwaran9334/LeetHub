@@ -68,6 +68,7 @@
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [1835-decode-xored-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1835-decode-xored-permutation) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -203,4 +204,5 @@
 | ------- |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
+| [1835-decode-xored-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1835-decode-xored-permutation) |
 <!---LeetCode Topics End-->

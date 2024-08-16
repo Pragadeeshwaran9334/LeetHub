@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -47,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -81,10 +83,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -205,4 +210,8 @@
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [1835-decode-xored-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1835-decode-xored-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->

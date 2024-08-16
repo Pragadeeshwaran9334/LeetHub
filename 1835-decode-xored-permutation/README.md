@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decode-xored-permutation">Decode XORed Permutation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is an integer array <code>perm</code> that is a permutation of the first <code>n</code> positive integers, where <code>n</code> is always <strong>odd</strong>.</p>
+<h2><a href="https://leetcode.com/problems/decode-xored-permutation">1835. Decode XORed Permutation</a></h2><h3>Medium</h3><hr><p>There is an integer array <code>perm</code> that is a permutation of the first <code>n</code> positive integers, where <code>n</code> is always <strong>odd</strong>.</p>
 
 <p>It was encoded into another integer array <code>encoded</code> of length <code>n - 1</code>, such that <code>encoded[i] = perm[i] XOR perm[i + 1]</code>. For example, if <code>perm = [1,3,2]</code>, then <code>encoded = [2,1]</code>.</p>
 

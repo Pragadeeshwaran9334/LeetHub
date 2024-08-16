@@ -18,6 +18,7 @@
 | [0007-reverse-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
@@ -46,6 +47,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
@@ -65,6 +67,7 @@
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

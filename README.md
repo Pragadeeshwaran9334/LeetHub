@@ -32,6 +32,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
 | [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
@@ -71,6 +72,7 @@
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -220,6 +223,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 ## Geometry
 |  |

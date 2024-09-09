@@ -67,6 +67,7 @@
 | [0046-permutations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Breadth-First Search
 |  |

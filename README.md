@@ -74,6 +74,7 @@
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,4 +234,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

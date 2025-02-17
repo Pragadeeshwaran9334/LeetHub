@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
+| [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2383-add-two-integers) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -150,6 +152,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
 |  |

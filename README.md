@@ -72,6 +72,7 @@
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0136-single-number) |
 | [1835-decode-xored-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1835-decode-xored-permutation) |
 ## Greedy
 |  |

@@ -32,6 +32,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
@@ -158,6 +159,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0234-palindrome-linked-list) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

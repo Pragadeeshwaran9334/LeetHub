@@ -56,6 +56,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -185,6 +186,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -213,6 +217,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,4 +260,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->

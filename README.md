@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

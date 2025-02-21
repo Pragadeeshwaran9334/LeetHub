@@ -18,6 +18,7 @@
 | [0007-reverse-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
@@ -239,6 +240,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0136-single-number) |

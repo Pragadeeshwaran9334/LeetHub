@@ -47,6 +47,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3194-find-words-containing-character](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
@@ -67,6 +68,7 @@
 | [1635-number-of-good-pairs](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Array
 |  |
@@ -97,6 +99,7 @@
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [3194-find-words-containing-character](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -278,4 +281,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

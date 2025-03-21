@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
@@ -38,6 +39,7 @@
 | [0022-generate-parentheses](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0778-reorganize-string) |
 | [1205-defanging-an-ip-address](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1205-defanging-an-ip-address) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0136-single-number) |

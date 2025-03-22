@@ -206,6 +206,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,8 +287,13 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Pragadeeshwaran9334/LeetHub/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
